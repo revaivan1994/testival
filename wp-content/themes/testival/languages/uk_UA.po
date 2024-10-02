@@ -1,0 +1,192 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2024-09-22 22:14+0300\n"
+"PO-Revision-Date: 2024-09-22 22:17+0300\n"
+"Last-Translator: Иван <reva.ivan2012@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: _s\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Сторінка не знайдена"
+
+#: 404.php:16
+msgid "The page you are looking for doesn't exist or has been moved"
+msgstr "Сторінка, яку ви шукаєте, не існує або була переміщена"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна думка на &ldquo;%1$s&rdquo;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: front-page.php:24
+msgid "TEST TASK TITLE"
+msgstr "НАЗВА ТЕСТОВОГО ЗАВДАННЯ"
+
+#: front-page.php:33
+msgid "Categories"
+msgstr "Категорії"
+
+#: front-page.php:35 front-page.php:66 front-page.php:87 front-page.php:106
+msgid "Product"
+msgstr "Продукт"
+
+#: front-page.php:38
+msgid "Engineering"
+msgstr "Інженерія"
+
+#: front-page.php:41 front-page.php:69
+msgid "Technology"
+msgstr "Технології"
+
+#: front-page.php:44 front-page.php:109
+msgid "Company"
+msgstr "Компанія"
+
+#: front-page.php:47 front-page.php:90
+msgid "Saas"
+msgstr "Саас"
+
+#: front-page.php:59 front-page.php:80
+msgid ""
+"12 unique examples of photography portfolio\n"
+"                        websites"
+msgstr ""
+"12 унікальних прикладів фотопортфоліо\n"
+" веб-сайтів"
+
+#: front-page.php:61 front-page.php:82
+msgid ""
+"You have many options to choose from when putting together\n"
+"                            your\n"
+"                            own online photography portfolio website."
+msgstr ""
+"Під час складання у вас є багато варіантів вибору\n"
+" ваш\n"
+" власний веб-сайт з онлайн-портфоліо фотографій."
+
+#: front-page.php:100
+msgid ""
+"12 unique examples of photography portfolio\n"
+"                    websites"
+msgstr "12 унікальних прикладів фотопортфоліо веб-сайтів"
+
+#: front-page.php:102
+msgid ""
+"You have many options to choose from when putting together your\n"
+"                        own online photography portfolio website."
+msgstr ""
+"Під час складання у вас є багато варіантів вибору\n"
+" ваш\n"
+" власний веб-сайт з онлайн-портфоліо фотографій."
+
+#: front-page.php:114
+msgid "Show all"
+msgstr "Показати все"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Первинний"
+
+#: functions.php:53
+msgid "Language Switcher"
+msgstr "Перемикач мов"
+
+#: functions.php:126
+msgid "Sidebar"
+msgstr "Бічна панель"
+
+#: functions.php:128
+msgid "Add widgets here."
+msgstr "Додайте сюди віджети."
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубліковано в %1$s"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Позначено %1$s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залиште коментар<span class=\"screen-reader-text\"> до %s</span>"
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редагувати <span class=\"screen-reader-text\">%s</span>"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: single.php:23
+msgid "Previous:"
+msgstr "Попередній:"
+
+#: single.php:24
+msgid "Next:"
+msgstr "Далі:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готові опублікувати свою першу публікацію? <a href=\"%1$s\">Почніть тут</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Вибачте, але нічого не відповідає вашим умовам пошуку. Спробуйте ще раз із "
+"іншими ключовими словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Здається, ми не можемо знайти те, що ви шукаєте. Можливо, пошук може "
+"допомогти."
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продовжити читання<span class=\"screen-reader-text\"> \"%s\"</span>"
